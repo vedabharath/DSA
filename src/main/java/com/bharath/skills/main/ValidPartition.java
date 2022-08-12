@@ -1,5 +1,7 @@
 package com.bharath.skills.main;
 
+import java.util.HashMap;
+
 public class ValidPartition {
 
     public boolean validPartition2(int[] n) {
