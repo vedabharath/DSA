@@ -21,7 +21,7 @@ public class FairIndexes {
         long tempA = 0;
         long tempB = 0;
 
-        for (int i = 1; i < a.length; i++) {
+        for (int i = 0; i < a.length-1; i++) {
             tempA += a[i];
             tempB += b[i];
             if ( tempA == tempB && 2 * tempA == sumA ) {
