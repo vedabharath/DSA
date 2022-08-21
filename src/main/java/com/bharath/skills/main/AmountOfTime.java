@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedList;
 
-class AmountOfTime {
+public class AmountOfTime {
 
     int start = 0;
     TreeNode node = null;
