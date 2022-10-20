@@ -1,0 +1,35 @@
+
+How can we solve the Kiwi.fly() issue?
+A Throw exception with a proper message
+B Don't implement the fly() method
+C Return null
+D Redesign the system
+
+Should these additional methods flapWings() & kickToTakeOff() be part of the ICanFly interface?
+A Yes, obviously. All things methods are related to flying
+B No. [specify your reasons]
+
+Which SOLID principle does the Employee.save() method violate?
+A Single Responsibility
+B Open Close
+C Liskov Substitution
+D Interface Segregation
+E Dependency Inversion
+
+Where should the code for calculating Income Tax reside?
+A Employee class, since we're calculating tax for employee
+B New class, to follow the SRP
+
+Which SOLID principle does Employee.processPayment() violate?
+A Single Responsibility
+B Open Close
+C Liskov Substitution
+D Interface Segregation
+E Dependency Inversion
+
+Which SOLID principle does EmployeeLoader.loadEmployee() violate?
+A Single Responsibility
+B Open Close
+C Liskov Substitution
+D Interface Segregation
+E Dependency Inversion
